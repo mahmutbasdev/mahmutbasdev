@@ -2,7 +2,10 @@
 
 ## Hi there! 👋
 
-#### I'm a student with interests across multiple subjects. I enjoy programming for scientific research and problem solving. 
-#### My goal is to create programs and tools that support scientific research and help understand complex problems.
+I have a strong interest in programming for scientific research and problem solving. I enjoy exploring complex questions and finding systematic ways to approach them.
 
- ##### *“Sic Parvis Magna”*  
+I am curious about multiple disciplines, including biology, history, mathematics, psychology, and philosophy. My goal is to develop software that is both efficient and meaningful, helping to understand and tackle challenging problems.
+
+<p align="center">
+  <em>"The only true wisdom is in knowing you know nothing." — Socrates</em>
+</p>
