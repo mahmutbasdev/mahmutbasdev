@@ -1,4 +1,4 @@
-![Banner description](./banner.png)
+![Banner](./banner.jpg)
 
 ## Hi there! 👋
 
