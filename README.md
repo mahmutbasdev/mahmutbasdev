@@ -1,4 +1,4 @@
-![Banner description](./2cd78d5752ddc7f32464e8934d0f4495.jpg)
+![Banner description](./banner.png)
 
 ## Hi there! 👋
 
