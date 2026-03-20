@@ -1,12 +1,14 @@
 ![Banner](./banner.jpg)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&background=000000&height=100"/>
 </p>
 
 I have a strong interest in programming for scientific research and problem solving. I enjoy exploring complex questions and finding systematic ways to approach them.
 
-I am curious about multiple disciplines, including biology, history, mathematics, psychology, and philosophy. My goal is to develop software that is both efficient and meaningful, helping to understand and tackle challenging problems.
+I am curious about multiple disciplines, including biology, history, mathematics, psychology, and philosophy. 
+
+My goal is to develop software that has real purpose and impact.
 
 <p align="center">
   <em>"The only true wisdom is in knowing you know nothing." — Socrates</em>
