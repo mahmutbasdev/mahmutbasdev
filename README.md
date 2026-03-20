@@ -1,7 +1,7 @@
 ![Banner](./banner.jpg)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 I have a strong interest in programming for scientific research and problem solving. I enjoy exploring complex questions and finding systematic ways to approach them.
