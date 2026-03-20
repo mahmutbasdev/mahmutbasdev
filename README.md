@@ -18,7 +18,7 @@ My goal is to develop software that has real purpose and impact.
 <table>
   <tr>
     <td><a href="https://github.com/mahmutbasdev/dna-sequence-analyzer">DNA Sequence Analyzer</a></td>
-    <td>Analyze DNA sequences and identify patterns using Python.</td>
+    <td>Analyze biological sequences, detect mutations, and calculate mutation rates.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/mahmutbasdev/number-analysis-tool">Number Analysis Tool</a></td>
@@ -26,11 +26,11 @@ My goal is to develop software that has real purpose and impact.
   </tr>
   <tr>
     <td><a href="https://github.com/mahmutbasdev/postra-php-app">Postra</a></td>
-    <td>Web application built with PHP for content management.</td>
+    <td>Social media web app with CRUD features and full login/register system.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/mahmutbasdev/django-guided-project">Django Guided Project</a></td>
-    <td>Full-stack Python project exploring database-driven apps.</td>
+    <td>Following a tutorial to learn Django and build a full-stack project. Work in progress.</td>
   </tr>
 </table>
 
