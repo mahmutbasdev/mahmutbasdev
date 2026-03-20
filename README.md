@@ -10,10 +10,6 @@ I am curious about multiple disciplines, including biology, history, mathematics
 
 My goal is to develop software that has real purpose and impact.
 
-<p align="center">
-  <em>"The only true wisdom is in knowing you know nothing." — Socrates</em>
-</p>
-
 ### 🚀 My Projects
 <table>
   <tr>
@@ -47,3 +43,7 @@ My goal is to develop software that has real purpose and impact.
 ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=ScrumAlliance&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-FF6600?style=for-the-badge&logo=AgileAlliance&logoColor=white)
 ![Gherkin](https://img.shields.io/badge/Gherkin-6CC24A?style=for-the-badge&logo=gherkin&logoColor=white)
+
+<p align="center">
+  <em>"The only true wisdom is in knowing you know nothing." — Socrates</em>
+</p
