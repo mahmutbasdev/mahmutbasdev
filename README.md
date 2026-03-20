@@ -15,20 +15,10 @@ My goal is to develop software that has real purpose and impact.
 </p>
 
 ### 🚀 My Projects
-<table>
-  <tr>
-    <td><a href="https://github.com/mahmutbasdev/dna-sequence-analyzer">DNA Sequence Analyzer</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/mahmutbasdev/number-analysis-tool">Number Analysis Tool</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/mahmutbasdev/postra-php-app">Postra - Web Application</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/mahmutbasdev/django-guided-project">Django - Guided Project</a></td>
-  </tr>
-</table>
+[![DNA Analyzer](https://img.shields.io/badge/DNA%20Analyzer-Python-blue)](https://github.com/mahmutbasdev/dna-sequence-analyzer)
+[![Number Tool](https://img.shields.io/badge/Number%20Tool-Python-green)](https://github.com/mahmutbasdev/number-analysis-tool)
+[![Postra](https://img.shields.io/badge/Postra-PHP-orange)](https://github.com/mahmutbasdev/postra-php-app)
+[![Django Project](https://img.shields.io/badge/Django%20Project-Python-red)](https://github.com/mahmutbasdev/django-guided-project)
 
 ### 🛠 Technologies & Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
