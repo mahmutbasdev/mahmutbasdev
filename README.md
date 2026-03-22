@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&background=000000&height=100"/>
 </p>
 
-I have a strong interest in programming for scientific research and problem solving. I enjoy exploring complex questions and finding systematic ways to approach them.
+My name is Mahmut, i have a strong interest in programming for scientific research and problem solving. I enjoy exploring complex questions and finding systematic ways to approach them.
 
 I am curious about multiple disciplines, including biology, history, mathematics, psychology, and philosophy. 
 
