@@ -24,10 +24,6 @@ My goal is to develop software that has real purpose and impact.
     <td><a href="https://github.com/mahmutbasdev/postra-php-app">Postra</a></td>
     <td>Social media web app with CRUD features and full login/register system.</td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/mahmutbasdev/django-guided-project">Django Guided Project</a></td>
-    <td>Following a tutorial to learn Django and build a full-stack project. Work in progress.</td>
-  </tr>
 </table>
 
 ### 🛠 Technologies & Skills
