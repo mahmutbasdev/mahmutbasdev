@@ -22,7 +22,7 @@ My goal is to develop software that has real purpose and impact.
   </tr>
   <tr>
     <td><a href="https://github.com/mahmutbasdev/postra-php-app">Postra</a></td>
-    <td>Social media web app with CRUD features and full login/register system.</td>
+    <td>Social media web app with CRUD features and full login/register system, made from scratch.</td>
   </tr>
 </table>
 
